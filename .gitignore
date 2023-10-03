@@ -1,2 +1,6 @@
 *.parquet
 *.json
+output.pstats
+output.pstats1
+output.pstats2
+output.pstats3
